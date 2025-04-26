@@ -1,0 +1,6 @@
+You: hi
+Gemini: Hi there! How can I help you today?
+You: tell me a motivational quote
+Gemini: "The only way to do great work is to love what you do." - Steve Jobs
+You: ok bye
+Gemini: Thank you for your feedback!
